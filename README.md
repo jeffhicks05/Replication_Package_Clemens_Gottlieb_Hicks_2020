@@ -18,9 +18,9 @@ Do Files:
 
 1. "namcs_new_small": This constructs Table 3 of the paper from public-use NAMCS and CTS, both of which are included in the replication package for a one-click-run.
 
-2. "conv_fctr_impact_spec" and "merge_PSPS_with_CTS": Construct imputed price changes caused by the 1997 Medicare conversasion factor for 46 specialty groups. To do so, specialty-level shares of surgical vs non-surgical procedures are estimated from the 1994, 1995, and 1996 PSPS files. These files are only available on NBER servers.
+2. "conv_fctr_impact_spec" and "merge_PSPS_with_CTS": Construct imputed price changes caused by the 1997 Medicare conversasion factor for 46 specialty groups. To do so, specialty-level shares of surgical vs non-surgical procedures are estimated from the 1994, 1995, and 1996 PSPS files. These files are available on NBER servers.
 
-3. The remaining do files conduct the main analysis on the restricted-use CTS. The master do-file is "final_do_file" which calls the the remaining sub-do files.
+3. The remaining do files conduct the main analysis on the restricted-use CTS. The master do-file is "final_do_file" which calls the the remaining do files.
 
 4. The ado files for user-written packages are included, as of the versions we used (reghdfe, winsor2, ftools, gtools).
 

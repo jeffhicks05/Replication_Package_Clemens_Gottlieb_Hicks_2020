@@ -1,8 +1,8 @@
-# Replication_Package_Clemens_Gottlieb_Hicks_2020
+# Replication_Package_Clemens_Gottlieb_Hicks_2021
 
 This repository contains the replication package for:
 
-"How Would Medicare for All Affect Health System Capacity? Evidence from Medicare for Some" Tax Policy & the Economy (2020) Clemens, Gottlieb, and Hicks
+"How Would Medicare for All Affect Health System Capacity? Evidence from Medicare for Some" Tax Policy & the Economy (2021) Clemens, Gottlieb, and Hicks
 
 Two sources of data used in the paper are publicly-available, and included in the replication package:
 

@@ -9,7 +9,7 @@ Two sources of data used in the paper are publicly-available, and included in th
 1. The Community Tracking Study Public-Use File (1996 to 2005 waves).
 2. The National Ambulatory Medical Care Survey (2003 to 2006 waves).
 
-Two sources of data, which is relied on for the majority of the paper's results, is restricted access:
+Two sources of data, which are relied on for the majority of the paper's results, are restricted access:
 
 1. Physician/Supplier Procedure Summary (PSPS) file: These are available on the NBER internal servers.
 2. The Community Tracking Study Restricted-Use File (1996 to 2005 waves): Interested parties can apply for access to through the contact information here: https://www.icpsr.umich.edu/web/pages/HMCA/CTSform/physician4/intro.html

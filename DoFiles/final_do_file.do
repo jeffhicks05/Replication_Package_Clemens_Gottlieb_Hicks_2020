@@ -41,7 +41,7 @@ include $code/descriptives.do
 * Scatters *	
 ************
 include $code/scatters.do
-
+include $code/changes_individual_binscatter.do
 *********************
 * Lifecycle Graphs *
 *********************

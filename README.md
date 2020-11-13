@@ -28,7 +28,7 @@ For (1), interested persons can simply download the repository, change the paren
 
 CrossWalks: We calculate implied price changes for 46 specialty categories from the PSPS public-use files. We merge these into the Community Tracking Study (restricted-used) based on their detailed specialty code of 126 categories. To do so, we manually cross-walked each CTS specialty ("specialty_detailed") to a single PSPS specialty ("medicare_speccode"). The file "new_crosswalk_medicare_cts.xls" shows this crosswalk, along with string labels for each.
 
-Questions about the replication should be forwarded to jeffhicks05@gmail.com.
+Questions about the replication should be forwarded to jeffhicks05@gmail.com, JGottlieb@uchicago.edu, and jeffclemens@ucsd.edu. 
 
 The full paper will become available here: https://www.journals.uchicago.edu/toc/tpe/current
 
